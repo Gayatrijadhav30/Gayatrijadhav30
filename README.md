@@ -1,102 +1,43 @@
 <h1 align="center">Hi 👋, I'm Gayatri Jadhav</h1>
-<h3 align="center">Machine Learning Engineer | Data Analyst | MSc in Data Analytics</h3>
+<h3 align="center">Data Analyst | BI Developer | MSc Data Analytics</h3>
 
 <p align="center">
-  Lifelong learner passionate about AI, Machine Learning, NLP, and data-driven problem solving.
+  Dublin-based Data Analyst turning raw data into decision-ready insights — with a differentiated edge in NLP/ML applied to financial compliance.
 </p>
-
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif">
 
 ### About Me
-- 🎓 MSc in Data Analytics, National College of Ireland
-- 💼 Former Machine Learning Engineer at Quantiphi
-- 🤖 Interested in Machine Learning, NLP, LLMs, and Analytics
-- 📊 Skilled in Python, SQL, Power BI, Tableau, GCP, and AWS
-- 🌱 Currently deepening my knowledge in **Natural Language Processing** and applied AI
-- 📍 Based in Dublin, Ireland
+- 🎓 MSc Data Analytics, National College of Ireland (2:1)
+- 💼 Former ML Engineer at Quantiphi Analytics — ETL pipelines, data validation, BI reporting for banking & healthcare clients
+- 📊 Core stack: SQL, Power BI (DAX, Power Query), Python, dbt, GCP/BigQuery
+- 🔍 Dissertation: reducing false positives in AML name screening using NLP/ML
+- 📍 Based in Dublin, Ireland — open to opportunities across Europe
 
-### Featured Work
-- 🔹 Built an **OCR pipeline** using Python, OpenCV, and Google Cloud Vision API to improve text extraction accuracy
-- 🔹 Developed **data pipelines** and analytics workflows using Python, GCP, and BigQuery
-- 🔹 Built an **LLM-powered Q&A assistant** with RAG, OpenAI, and LangChain
-- 🔹 Created projects in **predictive analytics, recommender systems, and dashboarding**
+### Featured Projects
 
-### Projects
-- **EPA Air Quality Data Pipeline**  
-  PySpark, AWS S3, PostgreSQL, Power BI
+**🏠 Ireland Housing Market Data Platform**
+`SQL · PostgreSQL · dbt · Power BI · Python`
+Processed 320,000+ CSO housing records and 2,000+ Daft.ie rental listings into a Bronze–Silver–Gold warehouse (dbt + PostgreSQL, 4 dimension tables, 5 fact tables). Delivered a 4-page Power BI dashboard covering executive KPIs, county-level rent trends, and affordability analysis.
+🔗 [Repo link]
 
-- **Predicting Diabetic Patient Readmission**  
-  Logistic Regression, feature engineering, model evaluation
+**📈 Volt Metrics — Sales & CRM Analytics Platform**
+`Power BI · Salesforce · SQL · DAX`
+Analysed 60,000+ sales transactions across 100 products and 50 locations. Built 3 interactive Power BI dashboards for sales performance and channel trends; created Salesforce-based customer segmentation across 7,000 customers.
+🔗 [Repo link]
 
-- **Content-Based Movie Recommender**  
-  NLP, Python, Streamlit
-
-- **AI-Powered Car Pricing Tool**  
-  Random Forest, Streamlit
+**🔎 AML Name Screening — False Positive Reduction (MSc Dissertation)**
+`Python · NLP · ML`
+Applied NLP/ML techniques to reduce false positives in anti-money-laundering name screening — a core compliance workflow in financial services.
+🔗 [Repo link — live demo coming soon]
 
 ### Certifications
-- Google Professional Machine Learning Engineer
-- Google Associate Cloud Engineer
 - Google Data Analytics Professional Certificate
+- Google Associate Cloud Engineer
+- Google Analytics Certification
+- SQL Advanced — HackerRank
+- PL-300: Microsoft Power BI Data Analyst *(in progress)*
 
-### Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/gayatri-jadhav-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Gayatri Jadhav LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:gayatri.jadhav1530@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
-  </a>
-</p>
+### Connect
+[LinkedIn](https://www.linkedin.com/in/gayatri-jadhav-/) · [gayatri.jadhav1530@gmail.com](mailto:gayatri.jadhav1530@gmail.com)
 
-### Languages and Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/power-bi.png" alt="powerbi" width="40" height="40"/>
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
-  </a>
-</p>
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-### Fun Fact
-- 🐶 Dog parent — my code reviews are supervised by my four-legged friend.
+### Tools
+`Python` `SQL` `Power BI` `Tableau` `dbt` `GCP/BigQuery` `PostgreSQL` `MySQL`
